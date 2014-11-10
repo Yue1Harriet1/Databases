@@ -2,13 +2,13 @@ Databases
 =========
 # NoSQL
 ### Cassandra
-* Download & Installation 
+Download & Installation 
 References: 
 
-Local Deployment
-[DataStax Blog: getting started with Apache Cassandra](http://www.datastax.com/2012/01/getting-started-with-cassandra)
+Local Deployment: [DataStax Blog: getting started with Apache Cassandra](http://www.datastax.com/2012/01/getting-started-with-cassandra)
+
+[datastax community edition](www.datastax.com/download)
 <ol>
-<li> [datastax community edition](www.datastax.com/download)</li>
 <li> Choose the Tarball option except for DataStax OpsCenter</li>
 <li> Move files to intended directory and uncompress:</li>
 </ol>
@@ -77,7 +77,7 @@ Reference
 [Introduction to Apache Cassandra white paper](http://www.datastax.com/wp-content/uploads/2012/08/WP-IntrotoCassandra.pdf)
 
 * Cloud Deployment
-* 
+
 [Google cloud Cassandra](https://cloud.google.com/solutions/cassandra/)
 
 * Other Online Tutorials
@@ -85,3 +85,5 @@ Reference
 [DataStax Free Training](https://academy.datastax.com/)
 
 [What The Heck Are You Actually Using NoSQL For](http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html)
+
+[How to Install Java 7 JDK](http://brianoneill.blogspot.ca/2012/11/installing-jdk-7-on-mac-os-x.html)
